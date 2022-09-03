@@ -16,8 +16,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -30,10 +28,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./mySolution.png)
+![](./mySolutionMobile.png)
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/semantic-html-5-javascript-css-mobile-first-design-ZXGvU0pYdB)
 - Live Site URL: [My live site](https://andrewgharrington.github.io/pricing-card-frontend-mentor-challenge/)
 
 ## My process
@@ -46,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-The main things I learned from this project was a web development workflow and working with inline/inline-block elements and positioning.
+The main things I learned from this project was a web development workflow and working with inline/inline-block elements and positioning. Also, I learned about mobile first design.
 
 ### Continued development
 
@@ -64,7 +63,7 @@ I will be learning flexbox and css grids soon.
 ## Author
 
 - Website - [Andrew Harrington](https://github.com/AndrewGHarrington)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AndrewGHarrington](https://www.frontendmentor.io/profile/AndrewGHarrington)
   **Note: - Twitter - [@yourusername](https://www.twitter.com/yourusername)**
 
 ## Acknowledgments
@@ -72,3 +71,4 @@ I will be learning flexbox and css grids soon.
 Thanks to Zach Gollwitzer for teaching me Web Development.
 
 - [Zach's Youtube Channel](https://cssgenerator.org/box-shadow-css-generator.html)
+
